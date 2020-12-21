@@ -1,0 +1,7 @@
+C:\Users\damon\source\repos\Multi-Treaded Matrix Opperations\Multi-Treaded Matrix Opperations\bin\Debug\Multi-Treaded Matrix Opperations.exe.config
+C:\Users\damon\source\repos\Multi-Treaded Matrix Opperations\Multi-Treaded Matrix Opperations\bin\Debug\Multi-Treaded Matrix Opperations.exe
+C:\Users\damon\source\repos\Multi-Treaded Matrix Opperations\Multi-Treaded Matrix Opperations\bin\Debug\Multi-Treaded Matrix Opperations.pdb
+C:\Users\damon\source\repos\Multi-Treaded Matrix Opperations\Multi-Treaded Matrix Opperations\obj\Debug\Multi-Treaded Matrix Opperations.csprojAssemblyReference.cache
+C:\Users\damon\source\repos\Multi-Treaded Matrix Opperations\Multi-Treaded Matrix Opperations\obj\Debug\Multi-Treaded Matrix Opperations.csproj.CoreCompileInputs.cache
+C:\Users\damon\source\repos\Multi-Treaded Matrix Opperations\Multi-Treaded Matrix Opperations\obj\Debug\Multi-Treaded Matrix Opperations.exe
+C:\Users\damon\source\repos\Multi-Treaded Matrix Opperations\Multi-Treaded Matrix Opperations\obj\Debug\Multi-Treaded Matrix Opperations.pdb
